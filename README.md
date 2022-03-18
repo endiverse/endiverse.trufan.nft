@@ -8,6 +8,8 @@ Reputation influences voting power and community rewards levels.
 The EndiVerse XP NFT has 60 Levels.  
 The XP leveling system uses a bronze, silver, gold, combined with a military style ranking system.
 
+![image](https://user-images.githubusercontent.com/95392397/159097293-12327b86-0b7e-46fc-a13d-9d3cdbfee79f.png)
+
 The Ranking is as follows.
 
 Levels | 1 - 20 | 21 - 40 | 41 - 60 |
