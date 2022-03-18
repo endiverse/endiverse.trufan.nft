@@ -1,19 +1,22 @@
 # TRUFAN.NFT Reference Implementation - EndiVerse XP
-Our own Endiverse branded fan loyalty program.
+Endiverse branded fan loyalty program.
 
 The EndiVerse TruFan Loyalty program enables DAO members to mint and maintain a permanant reputation with the Endiverse Community.
 This reputation cannot be bought or sold, it must be minted and earned / upgraded by each participant.
+Reputation influences voting power and community rewards levels.
 
-The EndiVerse XP NFT has 60 Levels.  The XP leveling system uses a bronze, silver, gold, combined with a military style ranking system.
+The EndiVerse XP NFT has 60 Levels.  
+The XP leveling system uses a bronze, silver, gold, combined with a military style ranking system.
 
 The Ranking is as follows.
 
 Levels | 1 - 20 | 21 - 40 | 41 - 60 |
 
+Classes:
 Bronze 1 -> 20 
 Silver 21 -> 40 
 Gold 41 -> 60 
-Level 60 
+Top Level 60 
 
 Bronze, Silver, Gold
 Rank 1, : Private
