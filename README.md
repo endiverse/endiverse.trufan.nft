@@ -1,9 +1,9 @@
-# TRUFAN.NFT Reference Implementation - Endiverse XP
+# TRUFAN.NFT Reference Implementation - Endiverse DAO XP
 **Endiverse branded fan loyalty program.**
 
 ![Meta-Space](https://user-images.githubusercontent.com/95392397/159100230-938f0dcb-382d-416c-b371-1f637649abbb.png)
 
-The EndiVerse TruFan Loyalty program enables DAO members to mint and maintain a permanant reputation with the Endiverse Community.
+The EndiVerse Loyalty program enables DAO members to mint and maintain a permanant reputation with the Endiverse Community.
 This reputation cannot be bought or sold, it must be minted and earned / upgraded by each participant.
 Reputation influences voting power and community rewards levels.
 
