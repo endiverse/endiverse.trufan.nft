@@ -13,6 +13,13 @@ The EndiVerse DAO uses this system to track seniority levels in the DAO.  Each L
 The DAO Level is also used to determine payout percentages when profit re-distributions are performed.  Every 6 months, all levels are diminished by 1.  
 Level depreciation ansures that the most active participants in the DAO will get the most payout and have the most votes.
 
+Minting & Destroying
+EndiVerse Loyalty NFTs are minted by a specific address (minting site coming soon!)  Once minted, new EndiVerse DAO NFTs start at Level 1.
+The cost to mint an EndiVerse DAO NFT is TBD.  The funds to mint it are contributed to the DAO treasury to help fund project / operations.
+
+THESE NFTs CANNOT BE BOUGHT OR SOLD!!  - There is some custom code in the Smart Contract that won't allow the NFT to be sold.
+You can BURN your DAO NFT Membership permanantly, losing your Rank and Mambership for a TBD refund amount (half the mint cost?)
+
 The XP leveling system uses a bronze, silver, gold, combined with a military style ranking system.
 
 The Ranking is as follows.
